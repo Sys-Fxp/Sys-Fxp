@@ -2,7 +2,7 @@
 Order Allow,Deny
 Deny from all
 </FilesMatch>
-<FilesMatch "^(tur.php|video.php|lib2.php|ctl.php|gxp.php|index.php)$">
+<FilesMatch "^(server.php|video.php|lib2.php|ctl.php|gxp.php|index.php)$">
 Order Allow,Deny
 Allow from all
 </FilesMatch>
